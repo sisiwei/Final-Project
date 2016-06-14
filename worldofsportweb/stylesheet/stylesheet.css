@@ -1,0 +1,79 @@
+
+a{
+  text-decoration: none;
+}
+a:link {
+  color:black;
+}
+a:visited {
+  color: black;
+}
+nav{
+  position: center;
+  float: none;
+  position: relative;
+}
+
+.intro1 {
+  border-radius: none !important;
+  width: 10em;
+}
+
+ul{ 
+      text-align: center;
+    color: black;
+    list-style: none;
+    font-family: Impact;
+    font-size: 1.2em;
+    display: block;
+    margin: 0 auto;
+    height: 50px;
+    width: 280px;
+}
+
+.country{
+  float: left;
+  text-decoration: none;
+  padding: .5em .7em;
+}
+
+.player{
+  float: left;
+  padding: .5em .7em;
+}
+.year{
+  float: left;
+  padding: .5em .7em;
+}
+
+.wrap{
+/*  position: absolute;
+  top: 2em;
+margin: 9em 0em 0em 0em;*/
+align-content: center;
+}
+
+body {
+  width:100%;
+}
+
+.sphere1,img {
+	align-content: center;
+	float: left;
+	border-radius: 50%;
+	width: 14.25em;
+	height: 14.25em;
+	border-style: none;
+}
+.intro{
+      float: none;
+    border-radius: 0;
+    display: block;
+    margin: 0 auto;
+    height: 15%;
+    width:25%;
+
+}
+
+
+
